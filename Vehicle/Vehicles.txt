@@ -1,0 +1,5 @@
+1,Honda,Sedan,500000.0
+2,Maruti,Hatchback,300000.0
+3,Yamaha,Bike,150000.0
+4,Tata,SUV,800000.0
+6,POLO,COUPE,200000.0
